@@ -21,7 +21,7 @@ After updating my videocard ATI/AMD I discover a pretty annoying bug that messup
 The usage is pretty forward, just pass the directory with the videos you want to convert using *-v* argument.
 
 ```
-docker run -it -v /home/brunof/Downloads/:/conversor conversor-webm-mp4
+docker run -it -v ${HOME}/Downloads/:/conversor conversor-webm-mp4
 ```
 
 ![run](https://imgur.com/1EnFuTZ.png)
