@@ -29,7 +29,7 @@ docker run -it -v ${PWD}:/conversor conversor-webm-mp4
 ### TODO and Thoughts :thought_balloon:
 TODO.
 
-- [  ] - More options with ffmpeg using arguments
+- [X] - More options with ffmpeg using arguments - Done (https://github.com/bruno-sf/ffmpeg)
 
 ## License
 
